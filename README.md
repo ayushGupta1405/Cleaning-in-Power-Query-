@@ -1,7 +1,3 @@
-Certainly! Here’s how you can integrate the data cleaning steps into your GitHub README:
-
----
-
 # Power Query Overview
 
 **Power Query** is a powerful tool embedded in Excel and Power BI that simplifies the process of importing, transforming, and preparing data for analysis. It's designed for users who need to clean, shape, and merge data from different sources, all without requiring deep technical knowledge.
